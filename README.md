@@ -1,15 +1,13 @@
 # AutoFollowTripod
 Tripod able to follow you while you move performing a sport
 En la actualidad nos encontramos con situaciones en las que los deportistas necesitan disponer de una grabación de su desempeño, ya que, en infinidad de deportes el uso de estos videos desencadenan una curva de aprendizaje exponencial. Llegados a este punto, esta necesidad requiere de una tercera persona para realizarse. Por ello, nuestras ideas convergen en una misma tarea. La de conseguir un dispositivo capaz de seguirnos y grabarnos durante la práctica del deporte. Gracias a este sistema, resolveríamos la situación farragosa de tener que mandar o pedir a una tercera persona que nos ayude. 
+
+Analizando el mercado nos encontramos con que ya existe una empresa con un proyecto enfocado en nuestra misma dirección. El inconveniente más importante de dicho dispositivo ya patentado, es el económico, ya que, ronda los 800€. Además, por muy alto que sea su precio, sus prestaciones dejan mucho que desear. Y es que la batería del maravilloso aparato únicamente dura 20 minutos. Además, utiliza una cámara ya incorporada, lo que significa que tenemos que utilizar dicha cámara y nos priva de poder utilizar la cámara que queramos y poner una de mayor calidad. 
+
+#Descripción
+Nuestro proyecto, mayormente, está enfocado a deportes de riesgo en el que se quieran tomar buenas tomas de video o fotos sin la necesidad de ningún acompañante. También se ha de tener en cuenta que debe de practicarse al aire libre, puesto que  utiliza tecnología gps y esta no funciona en interiores. Por ejemplo, un esquiador se quiere grabar un salto y coloca el trípode a un lado del salto, al empezar a moverse y saltar, la cámara seguirá su movimiento gracias a la señal gps y grabará con totalidad el salto. 
 	
-
-	Analizando el mercado nos encontramos con que ya existe una empresa con un proyecto enfocado en nuestra misma dirección. El inconveniente más importante de dicho dispositivo ya patentado, es el económico, ya que, ronda los 800€. Además, por muy alto que sea su precio, sus prestaciones dejan mucho que desear. Y es que la batería del maravilloso aparato únicamente dura 20 minutos. Además, utiliza una cámara ya incorporada, lo que significa que tenemos que utilizar dicha cámara y nos priva de poder utilizar la cámara que queramos y poner una de mayor calidad. 
-
-Descripción
-
-	Nuestro proyecto, mayormente, está enfocado a deportes de riesgo en el que se quieran tomar buenas tomas de video o fotos sin la necesidad de ningún acompañante. También se ha de tener en cuenta que debe de practicarse al aire libre, puesto que  utiliza tecnología gps y esta no funciona en interiores. Por ejemplo, un esquiador se quiere grabar un salto y coloca el trípode a un lado del salto, al empezar a moverse y saltar, la cámara seguirá su movimiento gracias a la señal gps y grabará con totalidad el salto. 
-	
-Composición
+#Composición
 
 	Para llevar a cabo este proyecto haremos uso de los siguientes dispositivos electrónicos:
 
